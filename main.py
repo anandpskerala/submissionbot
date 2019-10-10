@@ -28,8 +28,8 @@ else:
     with open('pid', mode='w') as f:
         print(str(currentPID), file=f)
 
-bot_token = "xyz"
-channel_id = "xyz"
+bot_token = "928020954:AAHfzgY37UftXhv-uH8WyE_wbAk09N6KQ6o"
+channel_id = "1167925961"
 
 updater = Updater(bot_token)
 dispatcher = updater.dispatcher
